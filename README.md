@@ -81,7 +81,7 @@ The goal of this assignment is to create a basic rest api that will allow a user
 
 
 
-* Figma designs [[https://www.figma.com/file/ascD0ddGr0Ax2EXo256qyJ/NASA?node-id=0%3A1&t=XZtItwkJ0G4eHYMc-1](https://www.figma.com/file/ascD0ddGr0Ax2EXo256qyJ/NASA?node-id=0%3A1&t=XZtItwkJ0G4eHYMc-1)] password: 123lizard
+* Figma designs [[https://www.figma.com/file/ascD0ddGr0Ax2EXo256qyJ/NASA?node-id=0%3A1&t=XZtItwkJ0G4eHYMc-1](https://www.figma.com/file/ascD0ddGr0Ax2EXo256qyJ/NASA?node-id=0%3A1&t=XZtItwkJ0G4eHYMc-1)] password: 123lizard (Exported assets can be found in the assets directory.)
 
 **Submission**
 
